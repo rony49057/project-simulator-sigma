@@ -1,0 +1,2 @@
+Create job listing for employer
+As a Employer, I want to create job list. So that I can see the total jobs available.
