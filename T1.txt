@@ -1,0 +1,3 @@
+Registration for student.
+
+As a student , I want to registration. So that  I can access career resources and get matched with jobs.
